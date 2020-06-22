@@ -1,0 +1,13 @@
+﻿{
+  "name": "Unity.Hot2",
+  "references": [
+    "Unity.Model",
+    "Unity.ThirdParty"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true
+}
